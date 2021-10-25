@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Psycho-Patch
 - 👀 I’m interested in Hacking
-- 🌱 I’m currently learning Ethical Hacking
+- 🌱 I’m currently learning Java
+- => Full Stack Web Developer
 - 💞️ Code Loop Coder whooop!!
 - 📫 akshaybillore92@gmail.com
 
